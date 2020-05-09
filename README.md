@@ -14,15 +14,15 @@ The goals of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./intermediate_steps/chess_marked.jpg "Undistorted"
-[image2]: ./intermediate_steps/sobel_thresh.jpg "Road Transformed"
+[image2]: ./intermediate_steps/sobel_thresh.JPG "Road Transformed"
 [image3]: ./intermediate_steps/combined_thresh.jpg "Binary Example"
 [image4]: ./intermediate_steps/transformed.jpg "Warp Example"
 [image5]: ./intermediate_steps/polyfit.jpg "Fit Visual"
-[image6]: ./intermediate_steps/example_output.jpg "Output"
-[video1]: ./video_output/project_video.mp4 "Video"
 
 ## Final result
 The video of the final result can be downloaded [here](./video_output/project_video.mp4)
+
+<img src="intermediate_steps/complete.jpg" width="400">
 
 ## How To View This Project
 1. Install jupyter notebook from [here](https://jupyter.org/install)
